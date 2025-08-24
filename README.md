@@ -1,3 +1,2 @@
 # GARDMO
-Multi-objective optimization algorithm by combining NSGA-II and APMORD.
-Program was coded using PlatEMO V4.7.
+A multi-objective optimization algorithm combining NSGA-II and APMORD, coded using the PlatEMO V4.7 framework.
